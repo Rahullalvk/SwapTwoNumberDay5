@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe.config
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.pdb
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.exe
+C:\Users\Admin\Documents\Day_3\swapping\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.pdb
